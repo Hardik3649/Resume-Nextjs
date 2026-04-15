@@ -1,0 +1,93 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "hardikparmar0306@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:hardikparmar0306@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91-88664 44307",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+91-88664 44307"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/hardik-p36/"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "AI in HR Course -2026",
+        "description": "Completed AI in HR Course in 2026, gaining foundational knowledge in artificial intelligence applications for human resources."
+      },
+      {
+        "title": "Diploma in EC -2016",
+        "description": "Completed Diploma in Electronics and Communication Engineering (EC) in 2016, gaining a strong foundation in electronics, communication systems, and technical problem-solving."
+      },
+      {
+        "title": "Higher Secondary School -2013",
+        "description": "Completed Higher Secondary School in 2013, gaining a strong foundation in science, mathematics, and general knowledge."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Lovable.ai",
+        "icon": "/images/home/education-skill/lovable-ai-icon.png",
+        "rating": 5
+      },
+      {
+        "name": "Claude",
+        "icon": "/images/home/education-skill/claude-ai-icon.png",
+        "rating": 5
+      },
+      {
+        "name": "Cursor",
+        "icon": "/images/home/education-skill/cursor-ai-code-icon.png",
+        "rating": 5
+      },
+      {
+        "name": "Google Antigravity",
+        "icon": "/images/home/education-skill/google-gemini-icon.png",
+        "rating": 5
+      },
+      {
+        "name": "Canva",
+        "icon": "/images/home/education-skill/canva-icon.png",
+        "rating": 5
+      },
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/hardik-p36/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "hardikparmar0306@gmail.com",
+        "link": "mailto:hardikparmar0306@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91-88664 44307",
+        "link": "tel:+91-88664 44307"
+      }
+    ]
+  }
+}
