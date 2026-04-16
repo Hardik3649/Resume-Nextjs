@@ -12,7 +12,7 @@ const fs = require("fs");
 const path = require("path");
 
 const PORT = 3000;
-const BASE_PATH = "/Resume-Nextjs";
+const BASE_PATH = process.env.BASE_PATH || "";
 const OUT_DIR = path.join(__dirname, "out");
 
 const MIME_TYPES = {
